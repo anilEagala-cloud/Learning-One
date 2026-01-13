@@ -33,6 +33,11 @@ public class practiceAutomation extends baseClass{
 	}
 	
 	
+	public void Anil() {
+		System.out.println("Anil");
+	}
+	
+	
 	
 	
 	
